@@ -11,7 +11,9 @@ Adaptation amateur non officielle de *Sonic the Hedgehog* pour Atari STE et Mega
 - `M` : basculer entre 8 et 16 MHz sur Mega STE
 - `R` : recommencer
 
-Le ZIP jouable est disponible dans la page **Releases**.
+[Télécharger Sonic STe alpha 0.6](./Sonic-STe-0.6-alpha.zip)
+
+Le même paquet est également disponible dans la page **Releases**.
 
 L’adaptation est basée sur le travail de désassemblage de Sonic 1 publié par Sonic Retro ([s1disasm](https://github.com/sonicretro/s1disasm)). Merci à ses contributeurs.
 
